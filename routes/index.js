@@ -9,5 +9,8 @@ routes.get('/test', (req, res) => {
 routes.get('/test2', (req, res) => {
     res.send('Bree Robinson');
 });
+routes.get('/test3', (req, res) => {
+    res.send('Kaitlyn Robinson');
+});
 
 module.exports = routes
