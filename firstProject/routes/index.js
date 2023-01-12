@@ -1,16 +1,13 @@
 const routes = require('express').Router();
+const connectContact = require('../controllers/contacts')
+
 
 routes.get('/', (req, res) => {
     res.send('Adam Robinson');
 });
-routes.get('/test', (req, res) => {
-    res.send('Jason Robinson');
-});
-routes.get('/test2', (req, res) => {
-    res.send('Bree Robinson');
-});
-routes.get('/test4', (req, res) => {
-    res.send('Kaitlyn Robinson');
-});
+
+routes.get('/contacts', connectContact.getAll)
+
+
 
 module.exports = routes
