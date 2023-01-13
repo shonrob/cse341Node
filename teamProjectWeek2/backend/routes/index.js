@@ -1,9 +1,11 @@
 // This file allows express to work 
-const routes = require('express').Router();
+const routes = require('express');
 
-routes.get('/', (req, res) => {
-    res.send('Adam Robinson');
-});
+const professionalController = require('../controllers/professional');
+
+const router = express.Router();
+
+router.get('/', professionalController.getData);
 
 
-module.exports = routes
+module.exports = router;

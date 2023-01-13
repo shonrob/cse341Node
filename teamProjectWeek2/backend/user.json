@@ -1,0 +1,25 @@
+[{
+    "_id": {
+      "$oid": "621fe1f527d68ebb24438395"
+    },
+    "professionalName": "Nathan Birch",
+    "nameLink": {
+      "firstName": "Nathan",
+      "url": "https://nathanbirch.netlify.app/"
+    },
+    "base64Image": "/9j/4AAQSkZJRgABAQEBkAGQAAD/7RigUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAACscAgAAAgAAHAJQAAJjaBwCNwAIMjAxOTA5MDQcAjwACzEwMDEzMi0wNjAwADhCSU0EJQAAAAAAEIDHZV6v2kEbEUSWT86X1tI4QklNBDoAAAAAAY0AAAAQAAAAAQAAAAAAC3ByaW50T3V0cHV0AAAABwAAAABDbHJTZW51bQAAAABDbHJTAAAAAFJHQkMAAAAATm0gIFRFWFQAAAAxAFMAQwAtAFAAOAAwADAAMABfAFAANgAwADAAMABfAFMAZQByAGkAZQBzACAAUAByAGUAbQBpAHUAbQBMAHUAcwB0AGUAcgBQAGgAbwB0AG8AUABhAHAAZQByADIANgAwAAAAAAAASW50ZWVudW0AAAAASW50ZQAAAABJbWcgAAAAAE1wQmxib29sAQAAAA9wcmludFNpeHRlZW5CaXRib29sAAAAAAtwcmludGVyTmFtZVRFWFQAAAAOAE0AYwBrADMANQA2ACAARQBwADYAMAAwADAAAAAAAA9wcmludFByb29mU2V0dXBPYmpjAAAADABQAHIAbwBvAGYAIABTAGUAdAB1AHAAAAAAAApwcm9vZlNldHVwAAAAAQAAAABCbHRuZW51bQAAAAxidWlsdGluUHJvb2YAAAAJcHJvb2ZDTVlLADhCSU0EOwAAAAACLQAAABAAAAABAAAAAAAScHJpbnRPdXRwdXRPcHRpb25zAAAAFwAAAABDcHRuYm9vbAAAAAAAQ2xicmJvb2wAAAAAAFJnc01ib29sAAAAAABDcm5DYm9vbAAAAAAAQ250Q2Jvb2wAAAAAAExibHNib29sAAAAAABOZ3R2Ym9vbAAAAAAARW1sRGJvb2wAAAAAAEludHJib29sAAAAAABCY2tnT2JqYwAAAAEAAAAAAABSR0JDAAAAAwAAAABSZCAgZG91YkBv4AAAAAAAAAAAAEdybiBkb3ViQG/gAAAAAAAAAAAAQmwgIGRvdWJAb",
+    "firstName": "Nathan",
+    "primaryDescription": " is a professor at BYU-Idaho",
+    "workDescription1": "He is a full-stack web developer and mobile application developer.",
+    "workDescription2": "He teaches lots of programming and web development classes.",
+    "linkTitleText": "Check out his work below",
+    "linkedInLink": {
+      "link": "https://www.linkedin.com/in/nathantbirch/",
+      "text": "LinkedIn"
+    },
+    "githubLink": {
+      "link": "https://github.com/nathanbirch",
+      "text": "GitHub"
+    },
+    "contactText": "Feel free to contact him at birchn@byui.edu if you'd like for him to work for you!"
+  }]
