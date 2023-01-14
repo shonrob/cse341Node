@@ -6,7 +6,7 @@ dotenv.config();
 
 // get the mongo data base 
 const MongoClient = require('mongodb').MongoClient;
-// const url = "mongodb+srv://shonrob:Fonda1202@cluster0.jvkxpjv.mongodb.net/?retryWrites=true&w=majority"
+
 
 // variable for the database 
 let _db;
