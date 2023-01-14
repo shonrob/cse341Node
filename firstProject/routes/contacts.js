@@ -8,6 +8,6 @@ routes.get('/', (req, res) => {
 
 routes.get('/contacts', connectContact.getAll);
 
-routes.get('/contacts/:id', connectContact.getById);
+// routes.get('/contacts/:id', connectContact.getById);
 
 module.exports = routes
